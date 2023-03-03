@@ -1,7 +1,8 @@
 {
-  "name": "google-map-react-lizc",
-  "version": "0.1.0",
+  "name": "@zencol/google-map-react",
+  "version": "0.2.1",
   "description": "Isomorphic component that allows rendering react components on a google map",
+  "types": "dist/index.d.ts",
   "author": "zencol https://github.com/lizhengchao",
   "license": "MIT",
   "repository": {
@@ -73,5 +74,12 @@
     "component",
     "javascript",
     "react-component"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/lizhengchao/google-map-react/issues"
+  },
+  "homepage": "https://github.com/lizhengchao/google-map-react#readme",
+  "directories": {
+    "example": "example"
+  }
 }
